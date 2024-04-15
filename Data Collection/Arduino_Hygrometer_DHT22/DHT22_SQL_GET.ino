@@ -7,15 +7,15 @@
 //----------------------------------------------------------------------------------------------------------------------
 
 //constants WiFi
-const char ssid[] = "MIWIFI_CASA_2G";
-const char pass[] = "PEREZRAYON2021";
+const char ssid[] = "";
+const char pass[] = "";
 
 int status = WL_IDLE_STATUS;
 WiFiClient client;
 
 int HTTP_PORT = 80;
 String HTTP_METHOD = "GET";
-char HOST_NAME[] = "192.168.1.200";
+char HOST_NAME[] = "";
 String PATH_NAME = "/php_code/insert_dht22_GET.php";
 String query_humidity = "?humidity=";
 String query_temperature = "?temperature=";
