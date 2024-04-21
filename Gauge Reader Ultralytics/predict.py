@@ -10,10 +10,10 @@ import datetime
 
 #DB Connection----------------------------------------------------------------------------------------------------------------------------------------------------------
 db_config = {
-    "host": "localhost",
-    "user": "root",
-    "password": "Prforsman10!",
-    "database": "Sensor"
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": ""
 }
 
 #Connect to MySQL database
