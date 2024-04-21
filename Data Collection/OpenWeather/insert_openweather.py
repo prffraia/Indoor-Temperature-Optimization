@@ -5,9 +5,9 @@ import time
 #API parameters
 api_key = "bc2ea985a9c79a2948df30c5d310d622"
 db_config = {
-    "host": "localhost",
-    "user": "root",
-    "password": "Prforsman10!",
+    "host": "",
+    "user": "",
+    "password": "",
     "database": "Sensor"
 }
 
